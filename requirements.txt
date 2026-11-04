@@ -13,3 +13,4 @@ numpy
 # Pin torch to your env as needed (CPU/CUDA). Example below is a placeholder:
 torch
 reportlab>=3.6.13
+gunicorn
